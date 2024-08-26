@@ -1,6 +1,6 @@
-# template-vanilla
+# js-basic-initials-adding-alert-for-conditions-code
 
-## Text
+## Alert result of calculation.
 
 ## Criteria:
 
